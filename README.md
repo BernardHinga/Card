@@ -5,4 +5,4 @@ This is a snipet of simple animated cards. Minimal colors implemented and small 
 
 Enjoy !👇🏾
 
-#<a href="https://anim-card.netlify.app/">🔗_💣🤯</a>
+# <a href="https://anim-card.netlify.app/">🔗_💣🤯</a>
